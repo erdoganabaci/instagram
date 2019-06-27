@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177012323898",
+    "firebase_url": "https://instagram-44539.firebaseio.com",
+    "project_id": "instagram-44539",
+    "storage_bucket": "instagram-44539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177012323898:android:e4d7397c3c370c4b",
+        "android_client_info": {
+          "package_name": "app.deverdo.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177012323898-7o6cs42ubchqfs37t83p020c0v72u9kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.deverdo.instagram",
+            "certificate_hash": "351fd2716cd9c3979b2b44d6d8a5c9ae517aa8d8"
+          }
+        },
+        {
+          "client_id": "177012323898-5km7itc4d5ak467tkem50c3gmndjai0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0NL8KJ1vflBoOlr8TMclL7hcq-sPbOfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177012323898-5km7itc4d5ak467tkem50c3gmndjai0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
